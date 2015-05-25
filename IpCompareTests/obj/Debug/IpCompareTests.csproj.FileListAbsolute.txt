@@ -1,7 +1,0 @@
-D:\IpCompare\IpCompareTests\obj\Debug\IpCompareTests.csprojResolveAssemblyReference.cache
-D:\IpCompare\IpCompareTests\bin\Debug\IpCompareTests.dll
-D:\IpCompare\IpCompareTests\bin\Debug\IpCompareTests.pdb
-D:\IpCompare\IpCompareTests\bin\Debug\IpCompare.dll
-D:\IpCompare\IpCompareTests\bin\Debug\IpCompare.pdb
-D:\IpCompare\IpCompareTests\obj\Debug\IpCompareTests.dll
-D:\IpCompare\IpCompareTests\obj\Debug\IpCompareTests.pdb
