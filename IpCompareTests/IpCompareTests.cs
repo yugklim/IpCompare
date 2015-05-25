@@ -80,7 +80,7 @@ namespace IpCompareTests
         [TestMethod]
         public void Verify_Whether_IpRangeEqual_Works_Right()
         {
-            Assert.IsFalse("11.11.11.11/11".IsIpRangeEqual("11.11.11.11/12"));
+            Assert.IsFalse("11.11.11.11/11".IsIpRangeEqual("11.11.11.11/12")); 
             Assert.IsFalse("11.11.11.11/11".IsIpRangeEqual(@"11.11.11.11\12"));
             Assert.IsFalse("11.11.11.11/13".IsIpRangeEqual("11.11.11.11/12"));
             Assert.IsFalse("11.11.11.xx/11".IsIpRangeEqual("11.11.11.xx/12"));
